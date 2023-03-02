@@ -11,4 +11,4 @@ Dove:
 2. <code>CodiceProgetto</code> è **chiave primaria** di <code>PROGETTO</code>.
 3. <code>CodiceProgetto</code> e <code>CodiceFiscale</code> in <code>PARTECIPAZIONE</code> rappresentano due **vincoli di integrità referenziale** con gli omonimi attributi in <code>IMPIEGATO</code> e <code>PROGETTO</code>.
 
->## Usando l'approccio **Code First** di **Entity Framework**, crea delle classi per mappare le suddette relazioni in una base dati.
+>## Usando l'approccio **Code First** di **Entity Framework**, scrivi il codice e i comandi necessari per creare le suddette relazioni in una base dati.
