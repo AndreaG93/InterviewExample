@@ -1,7 +1,7 @@
-# Domanda 1b
+# Domanda 1b - Esercizio
 
 >## Che cosa è un **singleton**?
 
 &nbsp;
 
->## Sai scrivere in C# una classe **singleton**?
+>## Scrivi, usando C#, una classe **singleton**?
