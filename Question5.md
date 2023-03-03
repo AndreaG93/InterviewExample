@@ -11,7 +11,7 @@ Supponiamo di avere una classe, chiamata <code>AltenEntity</code>, così definit
 
 E supponiamo di aver invocato da qualche parte del codice la seguente porzione di codice:
 
-    modelBuilder.Entity<SupplierDataEntity>(entity =>
+    modelBuilder.Entity<AltenEntity>(entity =>
     {
         entity.HasKey(x => x.Id);
 
