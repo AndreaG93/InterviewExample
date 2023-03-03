@@ -9,7 +9,7 @@ Supponiamo di avere una classe, chiamata <code>AltenEntity</code>, così definit
         public string Description { get; set; } 
     }
 
-E supponiamo di aver invocato da qualche parte del codice la seguente porzione di codice:
+E supponiamo di aver invocato - *qualche parte* - la seguente porzione di codice:
 
     modelBuilder.Entity<AltenEntity>(entity =>
     {
